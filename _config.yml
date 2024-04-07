@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yongzhe Yuan's Homepage"
+title                    : "Yue Wu's Homepage"
 title_separator          : 
-name                     : "Yongzhe Yuan's Homepage"
+name                     : "Yue Wu's Homepage"
 description              : 
 url                      : https://HXDao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,14 +82,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yongzhe Yuan"
-  avatar           : "photo.jpg"
-  bio              : "Ph.D. Student @ Xidian University"
-  location         : 
-  employer         :
+  name             : "Yue Wu"
+  avatar           :  "yue_wu.jpeg"
+  bio              : "Associate Professor; Senior Member, IEEE"
+  location         : "Xi'an, China"
+  employer         : "Xidian University"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com.hk/citations?user=uLZ8qJkAAAAJ&hl=en"
-  email            : "yyz@stu.xidian.edu.cn"
+  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=axaj7H4AAAAJ"
+  email            :  "ywu0912@outlook.com" 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -98,7 +98,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "YYZMARS"
+  github           : "ywu0912"
   google_plus      :
   keybase          :
   instagram        :
