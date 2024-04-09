@@ -15,6 +15,6 @@ author_profile: true
   {% include archive-single-pub.html %}
 {% endfor %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single-pub-journal.html %}
-{% endfor %}
+#{% for post in site.publications reversed %}
+#  {% include archive-single-pub-journal.html %}
+#{% endfor %}
