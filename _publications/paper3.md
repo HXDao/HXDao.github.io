@@ -7,6 +7,8 @@ author: <b>Yue Wu</b>, Jiaming Liu, Maoguo Gong, Qiguang Miao, Wenping Ma, Cai X
 tag1: Semantic Segmentation
 tag2: representations of LiDAR 
 venue: Information Fusion
+conference: 
+journal: true
 paperurl: https://www.sciencedirect.com/science/article/abs/pii/S1566253524001489
 codeurl: 
 ---
