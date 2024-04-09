@@ -7,6 +7,8 @@ author: Yongzhe Yuan, <b>Yue Wu</b>, Xiaolong Fan, Maoguo Gong, Qiguang Miao, We
 tag1: Point Cloud Registration
 tag2: Unsupervised
 venue: IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+conference: 
+journal: true
 paperurl:
 codeurl: https://github.com/YYZMARS/ICC
 ---
