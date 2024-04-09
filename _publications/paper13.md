@@ -7,5 +7,7 @@ author: <b>Yue Wu</b>, Xidao Hu, Yue Zhang, Maoguo Gong, Wenping Ma, Qiguang Mia
 tag1:  point cloud registration
 tag2:  point cloud feature interaction
 venue: IEEE Transactions on Circuits and Systems for Video Technology
+conference: 
+journal: true
 paperurl: https://ieeexplore.ieee.org/abstract/document/10018266/
 ---
