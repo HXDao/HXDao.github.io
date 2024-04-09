@@ -15,6 +15,7 @@ author_profile: true
   {% include archive-single-pub.html %}
 {% endfor %}
 
+<h1 class="page__title">Journal</h1>
 {% for post in site.publications reversed %}
   {% include archive-single-pub-journal.html %}
 {% endfor %}
