@@ -7,6 +7,8 @@ author: Jiaming Liu, <b>Yue Wu</b>, Maoguo Gong, Qiguang Miao, Wenping Ma, Cai X
 tag1: Autonomous Driving
 tag2: Tracking
 venue: Proceedings of the AAAI Conference on Artificial Intelligence(AAAI)
+conference: true
+journal: 
 paperurl: https://ojs.aaai.org/index.php/AAAI/article/view/28152
 codeurl: https://github.com/liujia99/M3SOT
 ---
