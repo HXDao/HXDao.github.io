@@ -7,5 +7,7 @@ author: <b>Yue Wu</b>, Hangqi Ding, Maoguo Gong, AK Qin, Wenping Ma, Qiguang Mia
 tag1:  Knowledge transfer
 tag2:  multiform optimization
 venue: IEEE Transactions on Evolutionary Computation
+conference: 
+journal: true
 paperurl: https://ieeexplore.ieee.org/document/9925083
 ---
