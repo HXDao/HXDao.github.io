@@ -7,5 +7,7 @@ author: <b>Yue Wu</b>, Jiaming Liu, Maoguo Gong, Zhixiao Liu, Qiguang Miao, Wenp
 tag1: Geometric and semantic features
 tag2:  multiscale generation
 venue: IEEE Transactions on Multimedia
+conference: 
+journal: true
 paperurl: https://ieeexplore.ieee.org/document/10249213
 ---
