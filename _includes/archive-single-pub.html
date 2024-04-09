@@ -11,7 +11,7 @@
 {% else %}
   {% assign title = post.title %}
 {% endif %}
-
+{% if post.conference %}
 <hr style="width:80%;text-align:left;margin-left:0">
 <div class="{{ include.type | default: "list" }}__item" style="font-size: 20px;">
 
@@ -68,3 +68,4 @@
     </div>
 </div>
 
+{% endif %}
