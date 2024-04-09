@@ -7,5 +7,7 @@ author: <b>Yue Wu</b>, Yue Zhang, Xiaolong Fan, Maoguo Gong, Qiguang Miao, Wenpi
 tag1:  overlap point estimation
 tag2:  partial overlap registration
 venue: IEEE Transactions on Circuits and Systems for Video Technology
+conference: 
+journal: true
 paperurl: https://ieeexplore.ieee.org/document/9915616
 ---
