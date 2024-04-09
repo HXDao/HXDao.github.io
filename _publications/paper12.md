@@ -7,5 +7,7 @@ author: <b>Yue Wu</b>, Jiaming Liu, Maoguo Gong, Peiran Gong, Xiaolong Fan, AK Q
 tag1:  Self-supervision
 tag2:  cross-modal learning
 venue: IEEE Transactions on Multimedia
+conference: 
+journal: true
 paperurl: https://ieeexplore.ieee.org/document/10147273
 ---
