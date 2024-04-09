@@ -7,6 +7,8 @@ author: Yongzhe Yuan,<b>Yue Wu</b>,Mingyu Yue,Maoguo Gong, Xiaolong Fan, Wenping
 tag1: Point Cloud Registration
 tag2: Discriminative representations 
 venue: IEEE Transactions on Circuits and Systems for Video Technology
+conference: 
+journal: true
 paperurl: https://ieeexplore.ieee.org/abstract/document/10475373
 codeurl: 
 ---
