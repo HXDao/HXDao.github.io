@@ -7,6 +7,8 @@ author: Yongzhe Yuan,<b> Yue Wu</b>, Xiaolong Fan, Maoguo Gong, Wenping Ma, Qigu
 tag1: Point Cloud Registration
 tag2: Transformer
 venue: IEEE Transactions on Visualization and Computer Graphics
+conference: 
+journal: true
 paperurl: https://ieeexplore.ieee.org/abstract/document/10319695
 ---
 
