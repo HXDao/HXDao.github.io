@@ -1,4 +1,18 @@
-<A NAME="Publications"><h2>Publications</h2></A>
+{% include base_path %}
+{% if post.header.teaser %}
+  {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
+{% else %}
+  {% assign teaser = site.teaser %}
+{% endif %}
+
+{% if post.id %}
+  {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
+{% else %}
+  {% assign title = post.title %}
+{% endif %}
+
+
+<A NAME="Publications"><h1>Publications</h1></A>
 <p><b>Journals</b>: </p>
 <font size="3"> 
 <ul>
@@ -12,6 +26,8 @@ pp. 1-15, 2022.
 </span>
 </p> 
 </ul>
+</font>
+<br />
 
 
 <p><b>Conferences</b>: </p>
@@ -26,3 +42,5 @@ in Beijing, China, pp. 293-304, 2022.
 </span>
 </p>
 </ul>
+</font>
+<br />
