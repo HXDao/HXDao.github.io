@@ -7,6 +7,8 @@ author: Jiaming Liu,<b>Yue Wu</b>, Maoguo Gong, Zhixiao Liu, Qiguang Miao, Wenpi
 tag1: Point Cloud
 tag2: Self-Supervised
 venue: IEEE Transactions on Multimedia
+conference: 
+journal: true
 paperurl: https://ieeexplore.ieee.org/abstract/document/10262210
 ---
 
