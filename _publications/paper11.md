@@ -7,5 +7,7 @@ author: <b>Yue Wu</b>, Yue Zhang, Wenping Ma, Maoguo Gong, Xiaolong Fan, Mingyan
 tag1:  Overlapping points’ estimation
 tag2:  point cloud registration
 venue: IEEE Transactions on Neural Networks and Learning Systems
+conference: 
+journal: true
 paperurl: https://ieeexplore.ieee.org/document/10168979
 ---
