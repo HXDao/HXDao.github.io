@@ -1,10 +1,10 @@
 # main links links
 main:
 
-   - title: "Research Interests"
+  - title: "Research Interests"
     url: /#ResearchInterests
 
-    - title: "Awards"
+  - title: "Awards"
     url: /#Awards
   
   - title: "Publications"
