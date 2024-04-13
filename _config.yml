@@ -84,12 +84,12 @@ analytics:
 author:
   name             : "Yue Wu"
   avatar           :  "yue_wu.jpeg"
-  bio              : "Associate Professor; Senior Member, IEEE"
+  bio              : "Associate Professor; Senior Member, IEEE; Email: ywu@xidian.edu.cn, ywu0912@outlook.com"
   location         : "Xidian University"
   employer         : #
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=axaj7H4AAAAJ"
-  email            :  "ywu@xidian.edu.cn" 
+  email            : #
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
