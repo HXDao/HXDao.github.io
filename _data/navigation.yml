@@ -13,6 +13,8 @@ main:
   - title: "Team Members"
     url: /#TeamMembers   
 
+  - title: "Enrollment Information"
+    url: /#EnrollmentInformation 
 #   - title: "Teaching"
 #     url: /teaching/    
     
