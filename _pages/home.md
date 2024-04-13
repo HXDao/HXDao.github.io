@@ -25,10 +25,10 @@ Since 2007, he has pursued his bachelor's and Ph.D. at Xidian University. After 
 
 <h1 id="Awards">Awards</h1>
 
-- 陕西省科技工作者创新创业大赛金奖（2nd Contributor、2018）
+- 陕西省科技工作者创新创业大赛金奖（2nd Contributor, 2018）
 - ACM China Rising Star Award (Xi'an) (2020)
 - Outstanding scientific and technological workers of CAAI (2020)
-- 陕西省电子学会自然科学二等奖 (1st Contributor、2022)
+- 陕西省电子学会自然科学二等奖 (1st Contributor, 2022)
 - 华为火花奖 (2022)
 - Best Paper Award at ACAIT  (First Author, 2022)
 - First Prize in CAAI Chinese Youth Congress on Artificial Intelligence (1st Contributor, 2022)
