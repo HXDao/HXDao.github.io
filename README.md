@@ -14,15 +14,15 @@
 在 /_pages/home.md 文件中修改
 
 # 添加顶部导航条
-在 /_data/navigation.yml 件中添加，注意代码格式排版保持和已有代码一样，不然报错。
+在 /_data/navigation.yml 件中添加，注意代码格式排版保持和已有代码一样，不然报错。随后在定位的位置添加相同名字的id
 
 # 修改最底部全球浏览信息
 在 /_includes/earth.html 文件中修改
 
 # 在主页添加新的栏目
- 1.在/_includes文件夹下添加xx.html/xx.md
- 2.在 /_pages/home.md 底部相应位置添加{% include xx.html/xx.md %} 
- 3.设置导航条，参考上面
+ 1. 在/_includes文件夹下添加xx.html/xx.md
+ 2. 在 /_pages/home.md 底部相应位置添加{% include xx.html/xx.md %} 
+ 3. 设置导航条，参考上面
 
 
 A Github Pages template for academic websites. This was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md.
