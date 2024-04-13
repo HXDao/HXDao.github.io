@@ -1,7 +1,6 @@
 # 直接在线修改
 修改内容直接点击文件页面右上角的铅笔图标，修改完提交就行。提交后点击左上角的Actions按钮查看文件编译部署情况，若出现绿色圈圈则部署成功，刷新页面可以看到变化。
 
-
 # 添加文章
 在 /_includes/paper.html 文件中添加
 
@@ -14,8 +13,16 @@
 # 修改个人简介、研究兴趣、获奖情况信息
 在 /_pages/home.md 文件中修改
 
+# 添加顶部导航条
+在 /_data/navigation.yml 件中添加，注意代码格式排版保持和已有代码一样，不然报错。
+
 # 修改最底部全球浏览信息
 在 /_includes/earth.html 文件中修改
+
+# 在主页添加新的栏目
+ 1.在/_includes文件夹下添加xx.html
+ 2.在 /_pages/home.md 底部相应位置添加
+
 
 A Github Pages template for academic websites. This was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md.
 
