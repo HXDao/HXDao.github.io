@@ -20,8 +20,9 @@
 在 /_includes/earth.html 文件中修改
 
 # 在主页添加新的栏目
- 1.在/_includes文件夹下添加xx.html
- 2.在 /_pages/home.md 底部相应位置添加
+ 1.在/_includes文件夹下添加xx.html/xx.md
+ 2.在 /_pages/home.md 底部相应位置添加{% include xx.html/xx.md %} 
+ 3.设置导航条，参考上面
 
 
 A Github Pages template for academic websites. This was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md.
