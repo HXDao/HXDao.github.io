@@ -1,10 +1,17 @@
 # main links links
 main:
+
+   - title: "Research Interests"
+    url: /#ResearchInterests
+
+    - title: "Awards"
+    url: /#Awards
+  
   - title: "Publications"
     url: /#publications
 
-  - title: "Group"
-    url: /group/    
+  - title: "Team Members"
+    url: /#TeamMembers   
 
 #   - title: "Teaching"
 #     url: /teaching/    
