@@ -28,7 +28,7 @@ Since 2007, he has pursued his bachelor's and Ph.D. at Xidian University. After 
 - Huawei Spark Award (2022)
 - Best Paper Award at the Asian Conference on Artificial Intelligence (First Author, 2022)
 - First Prize in the Innovation Category at the National Youth Artificial Intelligence Innovation and Entrepreneurship Conference (1st Contributor, 2022)
-- 
+  
 {% include paper.html %} 
 {% include team.html %} 
 {% include earth.html %} 
