@@ -1,14 +1,17 @@
 # 添加文章
-在 /_publication 文件夹中添加
+在 /_includes/paper.html 文件中添加
 
-# 添加学生
-在 /_pages/talks.html 文件中添加
+# 添加团队成员
+在 /_includes/team.html 文件中添加
 
 # 修改左边栏作者信息
 在 _config.yml 文件中修改
 
-# 修改主页信息
+# 修改个人简介、研究兴趣、获奖情况信息
 在 /_pages/home.md 文件中修改
+
+# 修改最底部全球浏览信息
+在 /_includes/earth.html 文件中修改
 
 A Github Pages template for academic websites. This was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md.
 
