@@ -11,9 +11,9 @@ title                    : "Yue Wu's Homepage"
 title_separator          : 
 name                     : "Yue Wu's Homepage"
 description              : 
-url                      : https://HXDao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : #https://HXDao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-dataurl                  : https://HXDao.github.io
+dataurl                  : #https://HXDao.github.io
 repository               : 
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 logo                     : /images/icon.png
