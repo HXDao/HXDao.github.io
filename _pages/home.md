@@ -24,7 +24,7 @@ Since 2007, he has pursued his bachelor's and Ph.D. at Xidian University. After 
   2011.08-2016.06 &nbsp&nbsp&nbsp&nbsp Ph.D. in Control Science and Engineering, Xidian University
 </li>
 <li>
-  2007.09-2011.06 &nbsp&nbsp&nbsp&nbsp Bachelor of Electronic Information Engineering, Xidian University
+  2007.09-2011.06 &nbsp;&nbsp;&nbsp;&nbsp; Bachelor of Electronic Information Engineering, Xidian University
 </li>
   
 </ul>
